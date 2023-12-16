@@ -1,0 +1,3 @@
+/home/fuminghao/svn/fumh/lmap/sample/CMakeFiles/rebuild_cache.dir
+/home/fuminghao/svn/fumh/lmap/sample/CMakeFiles/edit_cache.dir
+/home/fuminghao/svn/fumh/lmap/sample/CMakeFiles/lmapDemo.dir

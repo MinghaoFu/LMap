@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../external/lchar.h
+string
+-
+iostream
+-
+string.h
+-
+
+../external/llist.h
+iostream
+-
+assert.h
+-
+
+../external/lstring.h
+string
+-
+iostream
+-
+string.h
+-
+lchar.h
+../external/lchar.h
+
+/home/fuminghao/svn/fumh/lmap/src/lchar.cpp
+lchar.h
+/home/fuminghao/svn/fumh/lmap/src/lchar.h
+
+/home/fuminghao/svn/fumh/lmap/src/llist.cpp
+llist.h
+/home/fuminghao/svn/fumh/lmap/src/llist.h
+
+/home/fuminghao/svn/fumh/lmap/src/lstring.cpp
+lstring.h
+/home/fuminghao/svn/fumh/lmap/src/lstring.h
+
